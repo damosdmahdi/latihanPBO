@@ -14,7 +14,7 @@ public class latihanpraktikum1 {
         System.out.print("Masukkan nama Anda: ");
         String nama = input.nextLine();
 
-        System.out.print("Masukkan umur Anda: ");
+        System.out.print("Masukkan NIM Anda: ");
         int NIM = input.nextInt();
         
         System.out.print("Masukkan umur Anda: ");
